@@ -11,7 +11,7 @@
 | 4   | [get_next_line](../../../get_next_line)     | ✅125  |  
 | 5A  | [FdF](../../../FdF)                                         | ✅120     |
 | 6A  | [minitalk](../../../minitalk)              | ✅125  |
-| 7   | [push_swap]            | 🔒     | 
+| 7   | [push_swap]            | ⏳     | 
 | 8   | [minishell]                                 | 🔒     | 
 | 9   | [Philosphers]                               | 🔒     |  
 
