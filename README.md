@@ -12,7 +12,7 @@
 | 5A  | [FdF](../../../FdF)                                         | [![miskirik's 42 FdF Score](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/project/2735777)](https://github.com/miskirik/FdF)     |
 | 6A  | [minitalk](../../../minitalk)              | [![miskirik's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/project/2697814)](https://github.com/miskirik/minitalk)  |
 | 7   | [push_swap](../../../push_swap)            | [![miskirik's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/project/2807119)](https://github.com/miskirik/push_swap)    | 
-| 8   | [minishell]                                 | ⌛     | 
+| 8   | [minishell]                                 | [![miskirik's 42 minishell Score](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/project/2905952)](https://github.com/JaeSeoKim/badge42)| 
 | 9   | [Philosphers]                               | [![miskirik's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/project/2853584)](https://github.com/JaeSeoKim/badge42)     |  
 
 - 📫 How to reach me: **ben@aliskrk.com**
