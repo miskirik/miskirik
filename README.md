@@ -8,5 +8,5 @@
 <p align="left">
 <a href="https://twitter.com/aliskrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliskrk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aliskrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliskrk" height="30" width="40" /></a>
-<a href="https://instagram.com/aliskrk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliskrk2" height="30" width="40" /></a>
+<a href="https://instagram.com/_miskirik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliskrk2" height="30" width="40" /></a>
 </p>
