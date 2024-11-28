@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammet Ali</h1>
-<h3 align="center">I'm currently student and Rush Team Member in Ecole42</h3>
+<h3 align="center">I'm currently student and IT. Solutions Developer Staff in Ecole42</h3>
 
 [![miskirik's 42 stats](https://badge.mediaplus.ma/colorfulwaves/miskirik?1337Badge=off&UM6P=off)](https://github.com/miskirik)
 
